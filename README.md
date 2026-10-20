@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Avengers** · Team ID `VTU-QFF-HC-0018` · Tier `Offline`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Avengers)
+[⬆ Back to Top](#avengers)
 
 </div>
